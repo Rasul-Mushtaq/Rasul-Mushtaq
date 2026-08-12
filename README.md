@@ -1,6 +1,6 @@
 # Hi there! :)
 
-My name's Rasul. I'm currently looking to make projects that would benefit all people in fields like Data Science, ML/DL, Web Dev, and other related topics.
+I'm Rasul, a student looking to make projects that would benefit all people in fields like Data Science, ML/DL, Web Development, and other related topics.
 ---
 
 ## About Me
