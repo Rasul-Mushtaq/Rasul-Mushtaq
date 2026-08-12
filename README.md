@@ -1,6 +1,6 @@
 # Hi there! :)
 
-My name's Rasul. I'm currently looking to make projects that would benefit all people in fields like Data Science, ML, DL, Web Dev, and related topics.
+My name's Rasul. I'm currently looking to make projects that would benefit all people in fields like Data Science, ML/DL, Web Dev, and other related topics.
 ---
 
 ## About Me
@@ -25,7 +25,7 @@ My name's Rasul. I'm currently looking to make projects that would benefit all p
 ## Featured Projects
 
 ### DeltaLab
-Client-side data health inspector built for rapid exploratory data analysis. Processes CSV files directly in the browser to compute missingness, statistical distributions, and overall dataset health metrics.
+Client-side data health inspector built for rapid exploratory data analysis. Processes CSV files directly in the browser to compute missing values, statistical distributions, and overall dataset health metrics.
 * [Repository Link](https://github.com/Rasul-Mushtaq/deltalab)
 
 ### Disease Prediction System
