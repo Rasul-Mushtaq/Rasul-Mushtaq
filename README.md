@@ -34,7 +34,7 @@ Multi-condition predictive modeling pipeline applying supervised machine learnin
 
 ### Anemia Detection Model
 Trained a deep learning model to detect anemia signs by analyzing the paleness of the inner eyelid (conjunctiva).
-* [Repository Link](https://github.com/Rasul-Mushtaq/anemia-detection)
+* [Repository Link](https://github.com/Rasul-Mushtaq/anemia-prediction)
 
 ### Solar System View
 Interactive learning experience focused around the planets of the solar system, accompanied by a quiz and an arcade game.
