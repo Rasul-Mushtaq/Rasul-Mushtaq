@@ -2,7 +2,7 @@
 
 # Hi there! :)
 
-### I'm Rasul, a student who's looking to make projects that would benefit all people in fields like Data Science, ML/DL, Web Development, and other related topics.
+### I'm Rasul, a student who's willing to make projects that would benefit all people in fields like Data Science, ML/DL, Web Development, and other related topics.
 
 ---
 
@@ -70,30 +70,35 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Gapminder Dashboard</h3>
+      <p>An interactive dashboard built using the R Shiny framework that explores the relationship between different demographic trends from the years 1952-2007.</p>
+      <p><a href="https://github.com/Rasul-Mushtaq/gapmind-dashboard"><b>Repository Link</b></a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>DeltaLab</h3>
       <p>Client-side data health inspector built for rapid exploratory data analysis. Processes CSV files directly in the browser to compute missing values, statistical distributions, and overall dataset health metrics.</p>
       <p><a href="https://github.com/Rasul-Mushtaq/deltalab"><b>Repository Link</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Disease Prediction System</h3>
       <p>Multi-condition predictive modeling pipeline applying supervised machine learning algorithms to medical parameter inputs for multi-disease risk classification.</p>
       <p><a href="https://github.com/Rasul-Mushtaq/disease-prediction"><b>Repository Link</b></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>Anemia Detection Model</h3>
       <p>Trained a deep learning model to detect anemia signs by analyzing the paleness of the inner eyelid (conjunctiva).</p>
       <p><a href="https://github.com/Rasul-Mushtaq/anemia-prediction"><b>Repository Link</b></a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Solar System View</h3>
       <p>Interactive learning experience focused around the planets of the solar system, accompanied by a quiz and an arcade game.</p>
       <p><a href="https://github.com/Rasul-Mushtaq/solar-view"><b>Repository Link</b></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3>CV Builder</h3>
       <p>A useful web application for dynamic resume generation and structured profile formatting.</p>
       <p><a href="https://github.com/Rasul-Mushtaq/cv-builder"><b>Repository Link</b></a></p>
