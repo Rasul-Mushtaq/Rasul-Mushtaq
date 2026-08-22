@@ -72,7 +72,7 @@
     <td width="50%" valign="top">
       <h3>Gapminder Dashboard</h3>
       <p>An interactive dashboard built using the R Shiny framework that explores the relationship between different demographic trends from the years 1952-2007.</p>
-      <p><a href="https://github.com/Rasul-Mushtaq/gapmind-dashboard"><b>Repository Link</b></a></p>
+      <p><a href="https://github.com/Rasul-Mushtaq/gapminder-dashboard"><b>Repository Link</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>DeltaLab</h3>
