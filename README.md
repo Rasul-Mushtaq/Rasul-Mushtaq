@@ -4,7 +4,7 @@
 
 ### I'm Rasul, a student who's willing to make projects that would benefit all people in fields like Data Science, ML/DL, Web Development, and other related topics.
 
-#### My portfolio: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app/)
+### My portfolio: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app/)
 
 ---
 
