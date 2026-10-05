@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there! :)
+# Hi there! I'm Rasul :)
 
-### I'm Rasul, a student who's willing to make projects that would benefit all people in fields like Data Science, AI/ML, Web Development, and other related topics.
+### A student who's focused on making projects that would benefit all people in fields like Data Science, AI/ML, Web Development, and other related topics.
 
 ### My portfolio: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app/)
 
